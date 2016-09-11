@@ -1,0 +1,19 @@
+D:\Sanabria.Ignacio\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Sanabria.Ignacio\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+D:\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
+D:\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+D:\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+D:\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
+D:\Sanabria.Ignacio\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+D:\Sanabria.Ignacio\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+D:\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+D:\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+C:\Users\OVERCROS\Desktop\UTN\Solucion de Nacho\Sanabria.Ignacio\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
