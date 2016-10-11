@@ -1,0 +1,37 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+F:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 2\Trabajo Practico n°2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
