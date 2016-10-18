@@ -1,0 +1,5 @@
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\FormEstante\bin\Debug\FormEstante.exe.config
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\FormEstante\obj\Debug\FormEstante.Form1.resources
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache

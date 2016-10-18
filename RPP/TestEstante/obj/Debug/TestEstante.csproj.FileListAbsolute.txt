@@ -1,0 +1,8 @@
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\bin\Debug\TestEstante.exe.config
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\bin\Debug\TestEstante.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\bin\Debug\TestEstante.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\bin\Debug\Sanabria.Ignacio2D.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\bin\Debug\Sanabria.Ignacio2D.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\obj\Debug\TestEstante.exe
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\TestEstante\obj\Debug\TestEstante.pdb

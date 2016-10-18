@@ -1,0 +1,5 @@
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\Sanabria.Ignacio2D\bin\Debug\Sanabria.Ignacio2D.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\Sanabria.Ignacio2D\bin\Debug\Sanabria.Ignacio2D.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\Sanabria.Ignacio2D\obj\Debug\Sanabria.Ignacio2D.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\Sanabria.Ignacio2D\obj\Debug\Sanabria.Ignacio2D.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\Recuperatorio 1er Parcial - Lab II\Sanabria.Ignacio2D\Sanabria.Ignacio2D\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
