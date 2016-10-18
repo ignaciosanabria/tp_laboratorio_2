@@ -75,7 +75,7 @@ namespace TestEstante
         }
 
         /// <summary>
-        /// Metodo que ordena 
+        /// Metodo que ordena dos productos segun su codigo de barra.
         /// </summary>
         /// <param name="p1"></param>
         /// <param name="p2"></param>
