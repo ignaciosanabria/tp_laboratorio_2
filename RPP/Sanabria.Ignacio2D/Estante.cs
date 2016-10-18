@@ -10,16 +10,6 @@ namespace Sanabria.Ignacio2D
     {
         protected byte _capacidad;
         protected List<Producto> _productos;
-
-        //public enum ETipoProducto
-        //{
-        //    Galletita,
-        //    Harina,
-        //    Jugo,
-        //    Gaseosa,
-        //    Todos
-        //}
-
         private Estante()
         {
             this._productos = new List<Producto>();
@@ -114,6 +104,7 @@ namespace Sanabria.Ignacio2D
             return false;
         }
 
+        
         public static Estante operator -(Estante e, Producto prod)
         {
             if (!Object.ReferenceEquals(e, null) && !Object.ReferenceEquals(prod, null))
@@ -131,50 +122,6 @@ namespace Sanabria.Ignacio2D
         {
             if (!Object.ReferenceEquals(e, null))
             {
-                
-                //    switch (tipo)
-                //    {
-                //        case Producto.ETipoProducto.Galletita:
-                //            foreach (Producto item in e._productos)
-                //            {
-                //                if (item is Galletita)
-                //                {
-                //                    e._productos.Remove(item);
-                //                }
-                //            }
-                //            break;
-                //        case Producto.ETipoProducto.Gaseosa:
-                //            foreach (Producto item in e._productos)
-                //            {
-                //                if (item is Gaseosa)
-                //                {
-                //                    e._productos.Remove(item);
-                //                }
-                //            }
-                //            break;
-                //        case Producto.ETipoProducto.Harina:
-                //            foreach (Producto item in e._productos)
-                //            {
-                //                if (item is Harina)
-                //                {
-                //                    e._productos.Remove(item);
-                //                }
-                //            }
-                //            break;
-                //        case Producto.ETipoProducto.Jugo:
-                //            foreach (Producto item in e._productos)
-                //            {
-                //                if (item is Jugo)
-                //                {
-                //                    e._productos.Remove(item);
-                //                }
-                //            }
-                //            break;
-                //        default:
-                //            e._productos.Clear();
-                //            break;
-                    
-                //}
                 if (tipo == Producto.ETipoProducto.Galletita)
                 {
                     for (int i = 0; i < e._productos.Count; i++)
