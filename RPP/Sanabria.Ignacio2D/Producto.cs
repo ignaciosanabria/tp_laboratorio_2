@@ -70,13 +70,9 @@ namespace Sanabria.Ignacio2D
         {
             if (!Object.ReferenceEquals(prodUno, null) && !Object.ReferenceEquals(prodDos, null))
             {
-                if (prodUno._codigoBarra == prodDos._codigoBarra && prodUno._precio == prodDos._precio && string.Compare(prodUno._marca.ToString(), prodDos._marca.ToString()) == 0)
+                if (prodUno.Equals(prodDos) && prodUno._codigoBarra == prodDos._codigoBarra && prodUno._precio == prodDos._precio && string.Compare(prodUno._marca.ToString(), prodDos._marca.ToString()) == 0)
                 {
                     return true;
-                }
-                else
-                {
-                    return false;
                 }
             }
             return false;
@@ -114,13 +110,10 @@ namespace Sanabria.Ignacio2D
             return Producto.Mostrar(p);
         }
 
+        
         public override bool Equals(object obj)
         {
-            if (this._marca == ((Producto)obj)._marca)
-            {
-                return true;
-            }
-            return false;
+            return this == obj;
         }
 
         public virtual string Consumir()
