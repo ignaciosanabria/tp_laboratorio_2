@@ -73,10 +73,6 @@ namespace Sanabria.Ignacio2D
                     {
                         return true;
                     }
-                    else
-                    {
-                        return false;
-                    }
                 }
             }
             return false;
