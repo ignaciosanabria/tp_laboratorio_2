@@ -1,0 +1,13 @@
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\Archivos.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\EntidadesAbstractas.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\Excepciones.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\ProyectosInstanciables.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\EntidadesAbstractas.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\Excepciones.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\bin\Debug\ProyectosInstanciables.pdb
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\obj\Debug\TestsUnitarios.csprojResolveAssemblyReference.cache
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\UTN AVELLANEDA\2do Cuatrimestre\Laboratorio II & Programacion II\TP n 3\Sanabria.Ignacio.2D.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
