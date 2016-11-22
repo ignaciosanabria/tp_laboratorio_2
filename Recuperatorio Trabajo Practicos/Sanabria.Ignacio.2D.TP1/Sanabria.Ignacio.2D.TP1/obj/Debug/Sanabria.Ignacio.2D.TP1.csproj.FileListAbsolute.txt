@@ -1,0 +1,9 @@
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\bin\Debug\Sanabria.Ignacio.2D.TP1.exe.config
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\bin\Debug\Sanabria.Ignacio.2D.TP1.exe
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\bin\Debug\Sanabria.Ignacio.2D.TP1.pdb
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\obj\Debug\Sanabria.Ignacio.2D.TP1.csprojResolveAssemblyReference.cache
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\obj\Debug\Sanabria.Ignacio._2D.TP1.Form1.resources
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\obj\Debug\Sanabria.Ignacio._2D.TP1.Properties.Resources.resources
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\obj\Debug\Sanabria.Ignacio.2D.TP1.csproj.GenerateResource.Cache
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\obj\Debug\Sanabria.Ignacio.2D.TP1.exe
+C:\Users\OVERCROS\Desktop\UTN\Recuperatorio Trabajo Practicos\Sanabria.Ignacio.2D.TP1\Sanabria.Ignacio.2D.TP1\obj\Debug\Sanabria.Ignacio.2D.TP1.pdb
